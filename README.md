@@ -1,7 +1,7 @@
 # **Tyler Dickerson CS 499 ePortfolio**
 
 ## **Introduction**
-Welcome to my Capstone ePortfolio, created as the final project for my Bachelor of Science in Computer Science at Southern New Hampshire University. This portfolio integrates the knowledge and skills I have developed throughout my program, showcasing my growth and expertise in software engineering, data structures, algorithms, database management, and security.
+Welcome to my CS 499 GitHub ePortfolio, created as the final project for my Bachelor of Science in Computer Science at Southern New Hampshire University. This portfolio integrates the knowledge and skills I have developed throughout my program, showcasing my growth and expertise in software engineering, data structures, algorithms, database management, and security.
 
 ## **Table of Contents**
 1. [Professional Self-Assessment](#professional-self-assessment)
