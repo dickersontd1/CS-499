@@ -1,4 +1,4 @@
-# **Professional Self-Assessment**
+# **Tyler Dickerson-Professional Self-Assessment**
 
 ## **Introduction**
 
