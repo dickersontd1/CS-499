@@ -14,7 +14,7 @@ Welcome to my CS 499 GitHub ePortfolio, created as the final project for my Bach
 5. [Contact Information](#contact-information)
 
 ## **Professional Self-Assessment**
-In this section, I provide an overview of my journey through the Computer Science program, highlighting my strengths, professional goals, and the skills I’ve developed. You can read my [Professional Self-Assessment here](self-assessment.md) or the word doc version here [Professional Self-Assessment doc here] (Tyler Dickerson- Professional self-assessment.docx)
+In this section, I provide an overview of my journey through the Computer Science program, highlighting my strengths, professional goals, and the skills I’ve developed. You can read my [Professional Self-Assessment here](self-assessment.md) or the word doc version here [Professional Self-Assessment doc here](Tyler Dickerson- Professional self-assessment.docx)
 
 ## **Artifacts**
 ### **Artifact 1: Software Design and Engineering**
