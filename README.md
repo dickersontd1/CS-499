@@ -18,28 +18,29 @@ In this section, I provide an overview of my journey through the Computer Scienc
 
 ## **Artifacts**
 ### **Artifact 1: Software Design and Engineering**
-- **Project:** [MongoDB Data Processing and Storage](link-to-your-project-folder)
-- **Enhancements:**
+- **Project:** [MongoDB Data Processing and Storage](animalShelter.py)
+- **Enhancements:** [MongoDB Data Processing and Storage Enhancements ](animalShelterEnhanced1.py)
   - Advanced Query Optimization
   - Enhanced Data Security
   - Scalability and Performance Improvements
-- **Narrative:** [Read the full narrative for this artifact](path-to-your-narrative-file)
+    
+- **Narrative:** [Read the full narrative for this artifact](3-2 Milestone Two- Tyler Dickerson Resubmit.docx)
 
 ### **Artifact 2: Algorithms and Data Structure**
-- **Project:** [Data Processing Algorithms](link-to-your-project-folder)
-- **Enhancements:**
+- **Project:** [Data Processing Algorithms](animalShelterEnhanced1.py)
+- **Enhancements:** [Data Processing Algorithms Enhancements](ForModule4animalShelterEnhanced2.py)
   - Implementation of Distributed B-Tree for Range Queries
   - Use of Bloom Filters for Fast Existence Checks
   - Algorithm Optimization and Parallel Processing
-- **Narrative:** [Read the full narrative for this artifact](path-to-your-narrative-file)
+- **Narrative:** [Read the full narrative for this artifact](4-2 Milestone Three- Tyler Dickerson (1).docx)
 
 ### **Artifact 3: Databases**
-- **Project:** [Redis and Cassandra Backend Integration](link-to-your-project-folder)
-- **Enhancements:**
+- **Project:** [Redis and Cassandra Backend Integration](crud.py)
+- **Enhancements:** [Redis and Cassandra Backend Integration Enhancements](ForModule5CrudEnhanced1.py)
   - Integration of Redis for Caching and Session Management
   - Apache Cassandra for Large-Scale Data Storage
   - Development of a RESTful API with JWT Authentication
-- **Narrative:** [Read the full narrative for this artifact](path-to-your-narrative-file)
+- **Narrative:** [Read the full narrative for this artifact](5-2 Milestone Four Enhance- Tyler Dickerson (1).docx)
 
 ## **Code Review Video**
 In this section, I discuss the initial state of my selected artifacts, analyze areas for improvement, and outline the planned enhancements. Watch my [Code Review Video here](https://youtu.be/gt5Y7OnjSUg). 
