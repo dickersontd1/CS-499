@@ -27,7 +27,7 @@ Moreover, the experience of enhancing my artifacts has reinforced the value of *
 
 ### **Collaborating in a Team Environment**
 
-Throughout the program, I had the opportunity to collaborate with peers and my proffessor on various projects, which enhanced my ability to **work effectively in a team environment**. Collaboration is essential in the software industry, where projects often require input from multiple stakeholders and team members. In group projects, I contributed by **sharing my technical skills**, and ensuring that our solutions were **well-structured and aligned with project goals**. These experiences have prepared me to collaborate effectively with others, whether in a development team or when working with cross-functional teams in a professional setting.
+Throughout the program, I had the opportunity to collaborate with peers and my professor on various projects, which enhanced my ability to **work effectively in a team environment**. Collaboration is essential in the software industry, where projects often require input from multiple stakeholders and team members. In group projects, I contributed by **sharing my technical skills**, and ensuring that our solutions were **well-structured and aligned with project goals**. These experiences have prepared me to collaborate effectively with others, whether in a development team or when working with cross-functional teams in a professional setting.
 
 ---
 
@@ -73,7 +73,7 @@ As I complete my project and prepare to enter the workforce, I am confident that
 
 Here is a video review of my code, explaining the thought process, design decisions, and improvements:
 
-[Watch the Code Review on YouTube](https://www.youtube.com/watch?v=gt5Y7OnjSUg)
+[Click here](https://www.youtube.com/watch?v=gt5Y7OnjSUg) to watch the Code Review on YouTube.
 
 ---
 
@@ -83,6 +83,9 @@ Here is a video review of my code, explaining the thought process, design decisi
 
 The original artifacts included in this section are projects and assignments that demonstrate my foundational knowledge in computer science. These artifacts highlight my ability to design, implement, and test software applications. Each artifact serves as a testament to my technical skills and the progression of my learning throughout the program.
 
+- [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Algorithms%20and%20Data%20Structures/Original%20Artifact/animalShelter.py) to view the original `animalShelter.py` artifact.
+- [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Databases/Original%20Artifact/crud.py) to view the original `crud.py` artifact.
+
 ---
 
 ## <span style="color: red;">ENHANCEMENTS</span>
@@ -91,6 +94,10 @@ The original artifacts included in this section are projects and assignments tha
 
 The enhancements presented in this section showcase the improvements I made to the original artifacts. These enhancements reflect my growth in technical expertise, including optimizations for performance, security implementations, and design refinements. Each enhanced artifact demonstrates my ability to critically analyze and elevate existing solutions to meet higher standards.
 
+- [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Algorithms%20and%20Data%20Structures/Enhanced%20Artifact/AlgorithmsAndDataStructuresEnhanced.py) to view the Algorithms and Data Structures Enhanced Artifact.
+- [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Databases/Enhanced%20Artifact/DatabaseEnhancedArtifact.py) to view the Database Enhanced Artifact.
+- [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Software%20Engineering%20and%20Design/Enhanced%20Artifact/animalShelterEnhancement1.py) to view the Software Engineering and Design Enhanced Artifact.
+
 ---
 
 ## <span style="color: red;">NARRATIVES</span>
@@ -98,3 +105,5 @@ The enhancements presented in this section showcase the improvements I made to t
 ### Description
 
 The narratives included in this section provide detailed explanations of my approach to each project. They cover the problem-solving strategies, design decisions, and learning experiences that shaped the development of my ePortfolio. These narratives offer insight into my thought process and the practical application of the skills I have acquired throughout the program.
+
+[Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Narratives/NarrativeDocument.pdf) to view the Narrative Document.
