@@ -104,6 +104,12 @@ The enhancements presented in this section showcase the improvements I made to t
 
 ### Description
 
+## <span style="color: red;">NARRATIVES</span>
+
+### Description
+
 The narratives included in this section provide detailed explanations of my approach to each project. They cover the problem-solving strategies, design decisions, and learning experiences that shaped the development of my ePortfolio. These narratives offer insight into my thought process and the practical application of the skills I have acquired throughout the program.
 
-[Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Narratives/NarrativeDocument.pdf) to view the Narrative Document.
+- [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Narratives/3-2%20Milestone%20Two-%20Tyler%20Dickerson%20Resubmit%20(1).pdf) to view the 3-2 Milestone Two Narrative.
+- [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Narratives/4-2%20Milestone%20Three-%20Tyler%20Dickerson%20(1).pdf) to view the 4-2 Milestone Three Narrative.
+- [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Narratives/5-2%20Milestone%20Four%20Enhance-%20Tyler%20Dickerson%20(1).pdf) to view the 5-2 Milestone Four Narrative.
