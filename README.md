@@ -6,13 +6,13 @@
 
 ### **Introduction**
 
-As I reflect on my journey through the Computer Science program at Southern New Hampshire University, I am proud of the significant progress I have made in both **technical and professional competencies**. The combination of **coursework, hands-on projects**, and the development of my **ePortfolio** has allowed me to **showcase my strengths, shape my professional goals**, and prepare for a successful career in the computer science field. Through this program, I have gained valuable skills in **software engineering, data structures, algorithms, database management**, and **security**—all of which are essential for thriving in today's technology-driven world.
+As I reflect on my journey through the Computer Science program at Southern New Hampshire University, I am proud of the significant progress I have made in both **technical and professional competencies**. The combination of **coursework, hands-on projects**, and the development of my **ePortfolio** has allowed me to **show my strengths, shape my professional goals**, and prepare for a successful career in the computer science field. Through this program, I have gained valuable skills in **software engineering, data structures, algorithms, database management**, and **security**—all of which are essential for thriving in today's technology-driven world.
 
 ---
 
 ### **Showcasing My Strengths**
 
-The process of completing my coursework and developing the ePortfolio has been instrumental in helping me **identify and hone my strengths**. One of the most significant skills I have developed is the ability to **design and implement efficient and scalable software solutions**. For example, in the **Software Engineering and Design** category, I enhanced a project by **optimizing data processing pipelines, implementing security best practices**, and **deploying the application on Kubernetes** for scalability. These enhancements not only improved the project's performance but also demonstrated my ability to **create secure and reliable software systems**—qualities that are highly valued in the industry.
+The process of completing my coursework and developing the ePortfolio has been instrumental in helping me **identify my strengths**. One of the most significant skills I have developed is the ability to **design and implement efficient and scalable software solutions**. For example, in the **Software Engineering and Design** category, I enhanced a project by **optimizing data processing pipelines, implementing security best practices**, and **deploying the application on Kubernetes** for scalability. These enhancements not only improved the project's performance but also demonstrated my ability to **create secure and reliable software systems**—qualities that are highly valued in the industry.
 
 Another key strength is my **proficiency in working with advanced data structures and algorithms**. Throughout the program, I tackled complex problems that required **efficient data processing and management**. In the **Algorithms and Data Structures** category of my ePortfolio, I implemented a **distributed B-tree for efficient range queries** and used **Bloom filters for fast existence checks**. These advanced techniques improved the efficiency and performance of my projects, showcasing my ability to **manage large datasets** and **optimize algorithms for high throughput**.
 
@@ -28,7 +28,7 @@ Moreover, the experience of enhancing my artifacts has reinforced the value of *
 
 ### **Collaborating in a Team Environment**
 
-Throughout the program, I had the opportunity to collaborate with peers on various projects, which enhanced my ability to **work effectively in a team environment**. Collaboration is essential in the software industry, where projects often require input from multiple stakeholders and team members. In group projects, I contributed by **sharing my technical expertise, offering constructive feedback**, and ensuring that our solutions were **well-structured and aligned with project goals**. These experiences have prepared me to collaborate effectively with others, whether in a development team or when working with cross-functional teams in a professional setting.
+Throughout the program, I had the opportunity to collaborate with peers and my proffessor on various projects, which enhanced my ability to **work effectively in a team environment**. Collaboration is essential in the software industry, where projects often require input from multiple stakeholders and team members. In group projects, I contributed by **sharing my technical skills**, and ensuring that our solutions were **well-structured and aligned with project goals**. These experiences have prepared me to collaborate effectively with others, whether in a development team or when working with cross-functional teams in a professional setting.
 
 ---
 
