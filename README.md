@@ -1,6 +1,6 @@
 ## <span style="color: red;">Tyler Dickerson CS-499 ePortfolio</span>
 
-### About Me
+## <span style="color: red;">About Me</span>
 ---
 
 ### **Introduction**
