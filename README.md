@@ -96,8 +96,7 @@ The enhancements presented in this section showcase the improvements I made to t
 
 - [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Algorithms%20and%20Data%20Structures/Enhanced%20Artifact/AlgorithmsAndDataStructuresEnhanced.py) to view the Algorithms and Data Structures Enhanced Artifact.
 - [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Databases/Enhanced%20Artifact/DatabaseEnhancedArtifact.py) to view the Database Enhanced Artifact.
-- [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Software%20Engineering%20and%20Design/Enhanced%20Artifact/animalShelterEnhancement1.py) to view the Software Engineering and Design Enhanced Artifact.
-
+- [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Software%20Engineering%20and%20Design/Enhanced%20Artifact/animalShelterEnhancement1.py) to view the Software Engineering and Design Enhanced Artifact. or this for the pdf version-
 ---
 
 ## <span style="color: red;">NARRATIVES</span>
@@ -106,6 +105,11 @@ The enhancements presented in this section showcase the improvements I made to t
 
 The narratives included in this section provide detailed explanations of my approach to each project. They cover the problem-solving strategies, design decisions, and learning experiences that shaped the development of my ePortfolio. These narratives offer insight into my thought process and the practical application of the skills I have acquired throughout the program.
 
-- [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Narratives/3-2%20Milestone%20Two-%20Tyler%20Dickerson%20Resubmit%20(1).pdf) to view the 3-2 Milestone Two Narrative.
-- [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Narratives/4-2%20Milestone%20Three-%20Tyler%20Dickerson%20(1).pdf) to view the 4-2 Milestone Three Narrative.
-- [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Narratives/5-2%20Milestone%20Four%20Enhance-%20Tyler%20Dickerson%20(1).pdf) to view the 5-2 Milestone Four Narrative.
+- [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Narratives/3-2%20Milestone%20Two-%20Tyler%20Dickerson%20Resubmit%20(1).pdf) to view the 3-2 Milestone Two Narrative on GitHub.  
+  [PDF link](https://drive.google.com/file/d/1P70qm5uTjBRPUje6hQkRc0Zm6Z_fh-Wr/view?usp=sharing)
+
+- [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Narratives/4-2%20Milestone%20Three-%20Tyler%20Dickerson%20(1).pdf) to view the 4-2 Milestone Three Narrative on GitHub.  
+  [PDF link](https://drive.google.com/file/d/1J68H8EXOGhQBc2JZ39D6V8_xot1CWTlJ/view?usp=sharing)
+
+- [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Narratives/5-2%20Milestone%20Four%20Enhance-%20Tyler%20Dickerson%20(1).pdf) to view the 5-2 Milestone Four Narrative on GitHub.  
+  [PDF link](https://drive.google.com/file/d/1926BDK6AZblsWKHIHQ_h9q8k_Hkyks8s/view?usp=sharing)
