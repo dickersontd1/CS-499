@@ -1,4 +1,6 @@
-## Tyler Dickerson - Professional Self-Assessment
+## <span style="color: red;">ABOUT ME</span>
+
+### Tyler Dickerson - Professional Self-Assessment
 
 ---
 
@@ -63,9 +65,10 @@ The artifacts included in my ePortfolio represent a comprehensive view of my ski
 ### **Conclusion**
 
 As I complete my project and prepare to enter the workforce, I am confident that the skills and knowledge I have gained through the Computer Science program have equipped me for success. My ePortfolio serves as a testament to my **technical expertise, problem-solving abilities,** and commitment to **continuous learning**. I am excited to apply these skills in a professional setting and contribute to the development of **innovative and secure software solutions** that meet the needs of users and organizations.
+
 ---
 
-## <a id="code-review"></a>Code Review
+## <span style="color: red;">CODE REVIEW</span>
 
 ### Video Overview
 
@@ -75,7 +78,7 @@ Here is a video review of my code, explaining the thought process, design decisi
 
 ---
 
-## <a id="original-artifacts"></a>Original Artifacts
+## <span style="color: red;">ORIGINAL ARTIFACTS</span>
 
 ### Description
 
@@ -83,7 +86,7 @@ The original artifacts included in this section are projects and assignments tha
 
 ---
 
-## <a id="enhancements"></a>Enhancements
+## <span style="color: red;">ENHANCEMENTS</span>
 
 ### Description
 
@@ -91,7 +94,7 @@ The enhancements presented in this section showcase the improvements I made to t
 
 ---
 
-## <a id="narratives"></a>Narratives
+## <span style="color: red;">NARRATIVES</span>
 
 ### Description
 
