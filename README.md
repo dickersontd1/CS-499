@@ -1,4 +1,4 @@
-## <span style="color: red;">ABOUT ME</span>
+## <span style="color: red;">Tyler Dickerson CS-499 ePortfolio</span>
 
 ### Tyler Dickerson - Professional Self-Assessment
 
