@@ -63,3 +63,36 @@ The artifacts included in my ePortfolio represent a comprehensive view of my ski
 ### **Conclusion**
 
 As I complete my project and prepare to enter the workforce, I am confident that the skills and knowledge I have gained through the Computer Science program have equipped me for success. My ePortfolio serves as a testament to my **technical expertise, problem-solving abilities,** and commitment to **continuous learning**. I am excited to apply these skills in a professional setting and contribute to the development of **innovative and secure software solutions** that meet the needs of users and organizations.
+---
+
+## <a id="code-review"></a>Code Review
+
+### Video Overview
+
+Here is a video review of my code, explaining the thought process, design decisions, and improvements:
+
+[Watch the Code Review on YouTube](https://www.youtube.com/watch?v=gt5Y7OnjSUg)
+
+---
+
+## <a id="original-artifacts"></a>Original Artifacts
+
+### Description
+
+The original artifacts included in this section are projects and assignments that demonstrate my foundational knowledge in computer science. These artifacts highlight my ability to design, implement, and test software applications. Each artifact serves as a testament to my technical skills and the progression of my learning throughout the program.
+
+---
+
+## <a id="enhancements"></a>Enhancements
+
+### Description
+
+The enhancements presented in this section showcase the improvements I made to the original artifacts. These enhancements reflect my growth in technical expertise, including optimizations for performance, security implementations, and design refinements. Each enhanced artifact demonstrates my ability to critically analyze and elevate existing solutions to meet higher standards.
+
+---
+
+## <a id="narratives"></a>Narratives
+
+### Description
+
+The narratives included in this section provide detailed explanations of my approach to each project. They cover the problem-solving strategies, design decisions, and learning experiences that shaped the development of my ePortfolio. These narratives offer insight into my thought process and the practical application of the skills I have acquired throughout the program.
