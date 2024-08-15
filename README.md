@@ -2,23 +2,11 @@
 
 Welcome to my Final Capstone Project for CS-499. This repository contains all the necessary artifacts and documentation.
 
-## Navigation
-
-<div style="display: flex; gap: 10px;">
-    <a href="#about" style="background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">About Me</a>
-    <a href="#code-review" style="background-color: #2196F3; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Code Review</a>
-    <a href="#original-artifacts" style="background-color: #f44336; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Original Artifacts</a>
-    <a href="#enhancements" style="background-color: #ff9800; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Enhancements</a>
-    <a href="#narratives" style="background-color: #9C27B0; color: white; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; border-radius: 5px;">Narratives</a>
-</div>
-
 ---
 
-## <a name="about"></a>About Me
+## <a id="about"></a>About Me
 
 ### Tyler Dickerson - Professional Self-Assessment
-
-#### Introduction
 
 Tyler Dickerson-Professional Self-Assessment
 Introduction
@@ -57,7 +45,7 @@ As I complete my project and prepare to enter the workforce, I am confident that
 
 ---
 
-## <a name="code-review"></a>Code Review
+## <a id="code-review"></a>Code Review
 
 ### Video Overview
 
@@ -67,7 +55,7 @@ Here is a video review of my code, explaining the thought process, design decisi
 
 ---
 
-## <a name="original-artifacts"></a>Original Artifacts
+## <a id="original-artifacts"></a>Original Artifacts
 
 ### Description
 
@@ -75,7 +63,7 @@ The original artifacts included in this section are projects and assignments tha
 
 ---
 
-## <a name="enhancements"></a>Enhancements
+## <a id="enhancements"></a>Enhancements
 
 ### Description
 
@@ -83,7 +71,7 @@ The enhancements presented in this section showcase the improvements I made to t
 
 ---
 
-## <a name="narratives"></a>Narratives
+## <a id="narratives"></a>Narratives
 
 ### Description
 
