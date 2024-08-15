@@ -1,7 +1,6 @@
 ## <span style="color: red;">Tyler Dickerson CS-499 ePortfolio</span>
 
-### Tyler Dickerson - Professional Self-Assessment
-
+### About Me
 ---
 
 ### **Introduction**
