@@ -96,7 +96,9 @@ The enhancements presented in this section showcase the improvements I made to t
 
 - [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Algorithms%20and%20Data%20Structures/Enhanced%20Artifact/AlgorithmsAndDataStructuresEnhanced.py) to view the Algorithms and Data Structures Enhanced Artifact.
 - [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Databases/Enhanced%20Artifact/DatabaseEnhancedArtifact.py) to view the Database Enhanced Artifact.
+-
 - [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Software%20Engineering%20and%20Design/Enhanced%20Artifact/animalShelterEnhancement1.py) to view the Software Engineering and Design Enhanced Artifact.
+
 ---
 
 ## <span style="color: red;">NARRATIVES</span>
