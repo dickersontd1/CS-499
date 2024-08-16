@@ -73,7 +73,8 @@ As I complete my project and prepare to enter the workforce, I am confident that
 
 Here is a video review of my code, explaining the thought process, design decisions, and improvements:
 
-[Click here](https://www.youtube.com/watch?v=gt5Y7OnjSUg) to watch the Code Review on YouTube.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gt5Y7OnjSUg?si=lrFIt5FLFGeC7qHp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 ---
 
