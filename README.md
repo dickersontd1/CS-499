@@ -83,11 +83,13 @@ Here is a video review of my code, explaining the thought process, design decisi
 
 The original artifacts included in this section are projects and assignments that demonstrate my foundational knowledge in computer science. These artifacts highlight my ability to design, implement, and test software applications. Each artifact serves as a testament to my technical skills and the progression of my learning throughout the program.
 
-- **animalShelter.py**: [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Algorithms%20and%20Data%20Structures/Original%20Artifact/animalShelter.py) to view the original `animalShelter.py` artifact.
+- **animalShelter.py**: This script was initially designed to implement basic CRUD operations for managing an animal shelter database. It connected to a MongoDB database and provided methods to create, read, update, and delete records.
+  - [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Algorithms%20and%20Data%20Structures/Original%20Artifact/animalShelter.py) to view the original `animalShelter.py` artifact.
 
   ![Original animalShelter.py](https://github.com/dickersontd1/CS-499/raw/main/assets/screenshots/Algorithm%20and%20Data%20Structures%20OG.png)
 
-- **crud.py**: [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Databases/Original%20Artifact/crud.py) to view the original `crud.py` artifact.
+- **crud.py**: This artifact provided foundational CRUD operations for managing data within a MongoDB database, focusing on basic data handling without advanced features like validation or indexing.
+  - [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Databases/Original%20Artifact/crud.py) to view the original `crud.py` artifact.
 
   ![Original crud.py](https://github.com/dickersontd1/CS-499/raw/main/assets/screenshots/database%20og.png)
 
@@ -100,15 +102,18 @@ The original artifacts included in this section are projects and assignments tha
 
 The enhancements presented in this section showcase the improvements I made to the original artifacts. These enhancements reflect my growth in technical expertise, including optimizations for performance, security implementations, and design refinements. Each enhanced artifact demonstrates my ability to critically analyze and elevate existing solutions to meet higher standards.
 
-- **Algorithms and Data Structures Enhanced Artifact**: [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Algorithms%20and%20Data%20Structures/Enhanced%20Artifact/AlgorithmsAndDataStructuresEnhanced.py) to view the Algorithms and Data Structures Enhanced Artifact.
+- **Algorithms and Data Structures Enhanced Artifact**: This enhancement involved optimizing the original `animalShelter.py` script by integrating advanced data structures like Bloom filters and distributed B-Trees for efficient data processing and querying.
+  - [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Algorithms%20and%20Data%20Structures/Enhanced%20Artifact/AlgorithmsAndDataStructuresEnhanced.py) to view the Algorithms and Data Structures Enhanced Artifact.
 
   ![Enhanced AlgorithmsAndDataStructuresEnhanced.py](https://github.com/dickersontd1/CS-499/raw/main/assets/screenshots/Algorithm%20and%20Data%20Structures%20E.png)
 
-- **Database Enhanced Artifact**: [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Databases/Enhanced%20Artifact/DatabaseEnhancedArtifact.py) to view the Database Enhanced Artifact.
+- **Database Enhanced Artifact**: The original CRUD operations were enhanced by incorporating Apache Cassandra for large-scale data storage, adding advanced logging and indexing to optimize data retrieval and storage efficiency.
+  - [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Databases/Enhanced%20Artifact/DatabaseEnhancedArtifact.py) to view the Database Enhanced Artifact.
 
   ![Enhanced DatabaseEnhancedArtifact.py](https://github.com/dickersontd1/CS-499/raw/main/assets/screenshots/database%20E.png)
 
-- **Software Engineering and Design Enhanced Artifact**: [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Software%20Engineering%20and%20Design/Enhanced%20Artifact/animalShelterEnhancement1.py) to view the Software Engineering and Design Enhanced Artifact.
+- **Software Engineering and Design Enhanced Artifact**: This enhancement included deploying the `animalShelter.py` application on Kubernetes for scalability, improving security, and optimizing data processing pipelines for better performance.
+  - [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Software%20Engineering%20and%20Design/Enhanced%20Artifact/animalShelterEnhancement1.py) to view the Software Engineering and Design Enhanced Artifact.
 
   ![Enhanced animalShelterEnhancement1.py](https://github.com/dickersontd1/CS-499/raw/main/assets/screenshots/Software%20Engineering%20and%20Design%20E.png)
 
