@@ -93,12 +93,8 @@ The original artifacts included in this section are projects and assignments tha
 ### Description
 
 The enhancements presented in this section showcase the improvements I made to the original artifacts. These enhancements reflect my growth in technical expertise, including optimizations for performance, security implementations, and design refinements. Each enhanced artifact demonstrates my ability to critically analyze and elevate existing solutions to meet higher standards.
-
--
 - [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Algorithms%20and%20Data%20Structures/Enhanced%20Artifact/AlgorithmsAndDataStructuresEnhanced.py) to view the Algorithms and Data Structures Enhanced Artifact.
--
 -  [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Databases/Enhanced%20Artifact/DatabaseEnhancedArtifact.py) to view the Database Enhanced Artifact.
--
 - [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Software%20Engineering%20and%20Design/Enhanced%20Artifact/animalShelterEnhancement1.py) to view the Software Engineering and Design Enhanced Artifact.
 
 ---
