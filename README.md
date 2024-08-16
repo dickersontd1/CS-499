@@ -77,40 +77,41 @@ Here is a video review of my code, explaining the thought process, design decisi
 
 
 ---
-
 ## <span style="color: red;">ORIGINAL ARTIFACTS</span>
 
-### Description
+### **Description**
 
 The original artifacts included in this section are projects and assignments that demonstrate my foundational knowledge in computer science. These artifacts highlight my ability to design, implement, and test software applications. Each artifact serves as a testament to my technical skills and the progression of my learning throughout the program.
 
-- [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Algorithms%20and%20Data%20Structures/Original%20Artifact/animalShelter.py) to view the original `animalShelter.py` artifact.
-- [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Databases/Original%20Artifact/crud.py) to view the original `crud.py` artifact.
+- **animalShelter.py**: [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Algorithms%20and%20Data%20Structures/Original%20Artifact/animalShelter.py) to view the original `animalShelter.py` artifact. This Python script, developed during the CS 340 course, interfaces with a MongoDB database to perform CRUD operations on animal shelter data, showcasing my skills in database management and software design.
+  
+- **crud.py**: [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Databases/Original%20Artifact/crud.py) to view the original `crud.py` artifact. This artifact emphasizes my ability to perform and optimize CRUD operations, demonstrating my foundational understanding of database interactions and Python programming.
 
 ---
 
 ## <span style="color: red;">ENHANCEMENTS</span>
 
-### Description
+### **Description**
 
 The enhancements presented in this section showcase the improvements I made to the original artifacts. These enhancements reflect my growth in technical expertise, including optimizations for performance, security implementations, and design refinements. Each enhanced artifact demonstrates my ability to critically analyze and elevate existing solutions to meet higher standards.
-- [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Algorithms%20and%20Data%20Structures/Enhanced%20Artifact/AlgorithmsAndDataStructuresEnhanced.py) to view the Algorithms and Data Structures Enhanced Artifact.
--  [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Databases/Enhanced%20Artifact/DatabaseEnhancedArtifact.py) to view the Database Enhanced Artifact.
-- [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Software%20Engineering%20and%20Design/Enhanced%20Artifact/animalShelterEnhancement1.py) to view the Software Engineering and Design Enhanced Artifact.
+
+- **Algorithms and Data Structures Enhanced Artifact**: [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Algorithms%20and%20Data%20Structures/Enhanced%20Artifact/AlgorithmsAndDataStructuresEnhanced.py) to view the Algorithms and Data Structures Enhanced Artifact. Enhancements include implementing advanced data structures like Bloom Filters and Distributed B-Trees, optimizing efficiency and scalability, and introducing parallel processing for data aggregation tasks, significantly improving performance.
+
+- **Database Enhanced Artifact**: [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Databases/Enhanced%20Artifact/DatabaseEnhancedArtifact.py) to view the Database Enhanced Artifact. Enhancements involve integrating Redis for caching and session management, Apache Cassandra for large-scale data storage, and implementing JWT-based authentication for secure access, ensuring the application is both scalable and secure.
+
+- **Software Engineering and Design Enhanced Artifact**: [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Software%20Engineering%20and%20Design/Enhanced%20Artifact/animalShelterEnhancement1.py) to view the Software Engineering and Design Enhanced Artifact. This enhancement focuses on query optimization, data encryption, and scalability planning using Kubernetes, demonstrating advanced software design principles.
 
 ---
 
 ## <span style="color: red;">NARRATIVES</span>
 
-### Description
+### **Description**
 
 The narratives included in this section provide detailed explanations of my approach to each project. They cover the problem-solving strategies, design decisions, and learning experiences that shaped the development of my ePortfolio. These narratives offer insight into my thought process and the practical application of the skills I have acquired throughout the program.
 
-- [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Narratives/3-2%20Milestone%20Two-%20Tyler%20Dickerson%20Resubmit%20(1).pdf) to view the 3-2 Milestone Two Narrative on GitHub.  
-  [PDF link](https://drive.google.com/file/d/1P70qm5uTjBRPUje6hQkRc0Zm6Z_fh-Wr/view?usp=sharing)
+- **3-2 Milestone Two Narrative**: [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Narratives/3-2%20Milestone%20Two-%20Tyler%20Dickerson%20Resubmit%20(1).pdf) to view the narrative on GitHub. [PDF link](https://drive.google.com/file/d/1P70qm5uTjBRPUje6hQkRc0Zm6Z_fh-Wr/view?usp=sharing)
 
-- [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Narratives/4-2%20Milestone%20Three-%20Tyler%20Dickerson%20(1).pdf) to view the 4-2 Milestone Three Narrative on GitHub.  
-  [PDF link](https://drive.google.com/file/d/1J68H8EXOGhQBc2JZ39D6V8_xot1CWTlJ/view?usp=sharing)
+- **4-2 Milestone Three Narrative**: [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Narratives/4-2%20Milestone%20Three-%20Tyler%20Dickerson%20(1).pdf) to view the narrative on GitHub. [PDF link](https://drive.google.com/file/d/1J68H8EXOGhQBc2JZ39D6V8_xot1CWTlJ/view?usp=sharing)
 
-- [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Narratives/5-2%20Milestone%20Four%20Enhance-%20Tyler%20Dickerson%20(1).pdf) to view the 5-2 Milestone Four Narrative on GitHub.  
-  [PDF link](https://drive.google.com/file/d/1926BDK6AZblsWKHIHQ_h9q8k_Hkyks8s/view?usp=sharing)
+- **5-2 Milestone Four Narrative**: [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Narratives/5-2%20Milestone%20Four%20Enhance-%20Tyler%20Dickerson%20(1).pdf) to view the narrative on GitHub. [PDF link](https://drive.google.com/file/d/1926BDK6AZblsWKHIHQ_h9q8k_Hkyks8s/view?usp=sharing)
+
