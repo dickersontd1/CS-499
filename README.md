@@ -81,7 +81,7 @@ Here is a video review of my code, explaining the thought process, design decisi
 
 ### **Description**
 
-The original artifacts included in this section are projects and assignments that demonstrate my foundational knowledge in computer science. These artifacts highlight my ability to design, implement, and test software applications. Each artifact serves as a testament to my technical skills and the progression of my learning throughout the program.
+The original artifacts included in this section are projects and assignments that demonstrate my foundational knowledge in computer science, specifically from the **CS-340: Advanced Programming Concepts** course. These artifacts highlight my ability to design, implement, and test software applications. Each artifact serves as a testament to my technical skills and the progression of my learning throughout the program.
 
 - **animalShelter.py**: This script was initially designed to implement basic CRUD operations for managing an animal shelter database. It connected to a MongoDB database and provided methods to create, read, update, and delete records.
   - [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Algorithms%20and%20Data%20Structures/Original%20Artifact/animalShelter.py) to view the original `animalShelter.py` artifact.
