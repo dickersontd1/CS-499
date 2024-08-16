@@ -85,11 +85,12 @@ The original artifacts included in this section are projects and assignments tha
 
 - **animalShelter.py**: [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Algorithms%20and%20Data%20Structures/Original%20Artifact/animalShelter.py) to view the original `animalShelter.py` artifact.
 
-  ![Original animalShelter.py](https://github.com/dickersontd1/CS-499/blob/main/assets/screenshots/Algorithm%20and%20Data%20Structures%20OG.png)
+  ![Original animalShelter.py](https://github.com/dickersontd1/CS-499/raw/main/assets/screenshots/Algorithm%20and%20Data%20Structures%20OG.png)
 
 - **crud.py**: [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Databases/Original%20Artifact/crud.py) to view the original `crud.py` artifact.
 
-  ![Original crud.py](https://github.com/dickersontd1/CS-499/blob/main/assets/screenshots/database%20og.png)
+  ![Original crud.py](https://github.com/dickersontd1/CS-499/raw/main/assets/screenshots/database%20og.png)
+
 
 ---
 
@@ -101,15 +102,16 @@ The enhancements presented in this section showcase the improvements I made to t
 
 - **Algorithms and Data Structures Enhanced Artifact**: [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Algorithms%20and%20Data%20Structures/Enhanced%20Artifact/AlgorithmsAndDataStructuresEnhanced.py) to view the Algorithms and Data Structures Enhanced Artifact.
 
-  ![Enhanced AlgorithmsAndDataStructuresEnhanced.py](https://github.com/dickersontd1/CS-499/blob/main/assets/screenshots/Algorithm%20and%20Data%20Structures%20E.png)
+  ![Enhanced AlgorithmsAndDataStructuresEnhanced.py](https://github.com/dickersontd1/CS-499/raw/main/assets/screenshots/Algorithm%20and%20Data%20Structures%20E.png)
 
 - **Database Enhanced Artifact**: [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Databases/Enhanced%20Artifact/DatabaseEnhancedArtifact.py) to view the Database Enhanced Artifact.
 
-  ![Enhanced DatabaseEnhancedArtifact.py](https://github.com/dickersontd1/CS-499/blob/main/assets/screenshots/database%20E.png)
+  ![Enhanced DatabaseEnhancedArtifact.py](https://github.com/dickersontd1/CS-499/raw/main/assets/screenshots/database%20E.png)
 
 - **Software Engineering and Design Enhanced Artifact**: [Click here](https://github.com/dickersontd1/CS-499/blob/main/Final%20Capstone/Software%20Engineering%20and%20Design/Enhanced%20Artifact/animalShelterEnhancement1.py) to view the Software Engineering and Design Enhanced Artifact.
 
-  ![Enhanced animalShelterEnhancement1.py](https://github.com/dickersontd1/CS-499/blob/main/assets/screenshots/Software%20Engineering%20and%20Design%20E.png)
+  ![Enhanced animalShelterEnhancement1.py](https://github.com/dickersontd1/CS-499/raw/main/assets/screenshots/Software%20Engineering%20and%20Design%20E.png)
+
 
 ---
 
